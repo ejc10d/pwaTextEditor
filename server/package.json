@@ -3,9 +3,6 @@
     "version": "1.0.0",
     "description": "Just Another Text Exitor",
     "main": "server.js",
-    "engines": {
-        "node": "16.15.0"
-    },
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
