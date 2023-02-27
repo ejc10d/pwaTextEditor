@@ -4,7 +4,7 @@
   "description": "Just Another Text Editor.",
   "main": "server.js",
   "engines": {
-    "node": "16.5.0"
+    "node": "16.16.0"
   },
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
