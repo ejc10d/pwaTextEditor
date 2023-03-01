@@ -24,7 +24,7 @@ If you are using this app from github you will need to be sure to 'npm i' before
 #### Deployment
 
 [Screenshot of PWA](./ScreenShot.jpeg)
-[Here is a link to the Heroku deployed app.](www.heroku.com)
+[Here is a link to the Heroku deployed app.](https://just-another-text-editor1.herokuapp.com/)
 
 
 ## License
